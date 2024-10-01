@@ -1,6 +1,9 @@
-## Add these variables in your .env file 
+## Please add these urls to run locally 
 
-* MONGO_URI=your_mongo_uri
-* JWT_SECRET=secret or anything random
-* CLIENT_URL=http://localhost:3000 or any localhost port that you are using
+//-------------
+* CLIENT_URL=http://localhost:3000 or any localhost port 
 * PORT=8000
+* MONGO_URI=your_mongo_uri
+* JWT_SECRET=secretkey
+//--------------
+
